@@ -9,7 +9,7 @@ downloads: []
 :width: 250px
 ```
 
-- MSc Student - Astrophysics
+- MSc Student — Astrophysics
 @ [FC](https://www.fciencias.unam.mx/)
 
   (but I spend all my time at the [IA](https://astronomia.unam.mx/))
