@@ -15,7 +15,7 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: content/index.md
-      name: Home
+      title: Home
   copyright: (C) NCH
   edit_url: null
 site:
