@@ -65,8 +65,8 @@ in central México. Now residing in not-so-peaceful Ciudad de México.
 
 - Private tutoring
 
-  I've given private lessons to dozens of students from middle school to university
-  students in both physics and mathematics.
+  I've given private lessons to dozens of students, from middle school to university,
+  in both physics and mathematics.
 
 ## Programming
 
