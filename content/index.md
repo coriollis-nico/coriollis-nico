@@ -49,19 +49,19 @@ in central México. Now residing in not-so-peaceful Ciudad de México.
 
 ## Teaching experience
 
-- TA @ FC
+- TA for undergraduate courses @ FC
 
   - 2026
 
-    E&M I by Dr. Alipio Gustavo Calles Martínez
+    *E&M I* by Dr. Alipio Gustavo Calles Martínez
 
   - 2025 – 2026
 
-    Relativity by Dr. Luisa G. Jaime
+    *Relativity* by Dr. Luisa G. Jaime
 
   - 2025
 
-    Relativity by [Dr. Gustavo Arciniega](https://orcid.org/0000-0002-9960-2882)
+    *Relativity* by [Dr. Gustavo Arciniega](https://orcid.org/0000-0002-9960-2882)
 
 - Private tutoring
 
@@ -70,7 +70,7 @@ in central México. Now residing in not-so-peaceful Ciudad de México.
 
 ## Programming
 
-- Modern `Fortran`
+- `Fortran`
 - `Python`
 - `Julia`
 - $\LaTeX$
