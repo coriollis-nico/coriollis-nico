@@ -26,7 +26,7 @@ site:
     logo_dark: logo-dark.png
     # logo_text: Nicolás Celedón-Hernández
     logo_alt: n_logo
-    # hide_outline: true
+    hide_outline: true
     hide_toc: true
     hide_footer_links: true
     hide_search: true
