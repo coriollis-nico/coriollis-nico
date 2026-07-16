@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 8b83edc5-815d-4db6-982a-240db413c8f9
-  title: Nicolás Celedón-Hernández
+  title: Home
   description: My personal GitHub site
   # keywords: []
   # authors: []
@@ -27,8 +27,7 @@ site:
     # logo_text: Nicolás Celedón-Hernández
     logo_alt: n_logo
     hide_outline: true
-    hide_toc: true
+    hide_toc: false
     hide_footer_links: true
     hide_search: true
     hide_download: true
-
