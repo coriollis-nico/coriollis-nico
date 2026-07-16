@@ -10,7 +10,7 @@ project:
   author:
     - name: Nicolás Celedón-Hernández
       email: nicolas.celedonh@ciencias.unam.mx
-      affiliation: Facultad de Ciencias UNAM
+      affiliation: Facultad de Ciencias, UNAM
       github: coriollis-nico
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
