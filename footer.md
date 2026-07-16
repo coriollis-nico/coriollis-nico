@@ -1,1 +1,1 @@
-2026 – NCH.
+2026 — Nicolás Celedón-Hernández
