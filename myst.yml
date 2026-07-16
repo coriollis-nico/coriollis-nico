@@ -1,0 +1,34 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8b83edc5-815d-4db6-982a-240db413c8f9
+  title: Nicolás Celedón-Hernández
+  description: My personal GitHub site
+  # keywords: []
+  # authors: []
+  # github: https://github.com/coriollis-nico/coriollis-nico
+  author:
+    - name: Nicolás Celedón-Hernández
+      email: nicolas.celedonh@ciencias.unam.mx
+      affiliation: Facultad de Ciencias UNAM
+      github: coriollis-nico
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: content/index.md
+      name: Home
+  copyright: (C) NCH
+  edit_url: null
+site:
+  template: book-theme
+  options:
+    favicon: favicon.ico
+    logo: logo.png
+    logo_dark: logo-dark.png
+    # logo_text: Nicolás Celedón-Hernández
+    logo_alt: n_logo
+    # hide_outline: true
+    hide_toc: true
+    hide_footer_links: true
+    hide_search: true
+    hide_download: true
+
