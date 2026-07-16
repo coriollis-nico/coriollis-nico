@@ -26,7 +26,6 @@ site:
     favicon: favicon.ico
     logo: logo.png
     logo_dark: logo-dark.png
-    # logo_text: Nicolás Celedón-Hernández
     logo_alt: n_logo
     hide_outline: true
     hide_toc: false
