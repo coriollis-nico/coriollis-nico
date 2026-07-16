@@ -70,9 +70,9 @@ in central México. Now residing in not-so-peaceful Ciudad de México.
 
 ## Programming
 
-- `Fortran 20xx`
-- `Python (+ libraries)`
-- `Julia (+ libraries)`
+- Modern `Fortran`
+- `Python`
+- `Julia`
 - $\LaTeX$
 
 Currently learning `Rust`.
