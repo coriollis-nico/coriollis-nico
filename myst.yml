@@ -20,6 +20,8 @@ project:
   edit_url: null
 site:
   template: book-theme
+  parts:
+    footer: footer.md
   options:
     favicon: favicon.ico
     logo: logo.png
