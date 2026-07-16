@@ -79,7 +79,7 @@ Currently learning `Rust`.
 
 ## Other activities
 
-- AUR package maintainer
+- [AUR package maintainer](https://aur.archlinux.org/account/coriollis)
 
 - Slow piano learner
 
